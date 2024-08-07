@@ -7,7 +7,7 @@ Quite alright typescript libraries.
 * [ts-rest](https://ts-rest.com/) - The way to build typesafe http services. Like trpc but in good.
 
 ## Schema & Data types
-* [zod](https://zod.dev`)
+* [zod](https://zod.dev`) - Easy schema validation, though it's missing encoders.
 * [remote-data-ts](https://github.com/devexperts/remote-data-ts) - The way to model remote data
 
 ## Functional programming
@@ -22,6 +22,7 @@ Quite alright typescript libraries.
 * [pnpm](https://pnpm.io/) - Fast & works
 * [vite](https://vitejs.dev/) - Bundler that actually works.
 * [tsx](https://tsx.is/) - Easy runnner for ts projects.
+* [tsc-alias](https://github.com/justkey007/tsc-alias) - Makes this ts work somehow.
 
 ## React
 * [react-icons](https://react-icons.github.io/react-icons/) - The only lib you'll ever need for icons
