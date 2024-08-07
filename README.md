@@ -7,7 +7,7 @@ Quite alright typescript libraries.
 * [ts-rest](https://ts-rest.com/) - The way to build typesafe http services. Like trpc but in good.
 
 ## Database & SQL
-* [drizzle]([https://ts-rest.com/](https://orm.drizzle.team/)) - To query postgres. Supports both sql`...` and sql-like query-building. Has proper pg-type mapping.
+* [drizzle]([https://ts-rest.com/](https://orm.drizzle.team/) - To query postgres. Supports both sql`...` and sql-like query-building. Has proper pg-type mapping.
 
 ## Schema & Data types
 * [zod](https://zod.dev`) - Easy schema validation, though it's missing encoders.
