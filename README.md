@@ -6,6 +6,9 @@ Quite alright typescript libraries.
 
 * [ts-rest](https://ts-rest.com/) - The way to build typesafe http services. Like trpc but in good.
 
+## Database & SQL
+* [drizzle]([https://ts-rest.com/](https://orm.drizzle.team/)) - To query postgres. Supports both sql`...` and sql-like query-building. Has proper pg-type mapping.
+
 ## Schema & Data types
 * [zod](https://zod.dev`)
 * [remote-data-ts](https://github.com/devexperts/remote-data-ts) - The way to model remote data
@@ -14,6 +17,7 @@ Quite alright typescript libraries.
 * [effect](https://effect.website/) - Effect system and functional library. 
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) - Type-safe pattern matching for TypeScript. Still quite useful although effect's pattern matching will probably take over at some point. 
 * [spectacle-ts](https://github.com/anthonyjoeseph/spectacles-ts) - Lens library with autocomplete support.
+* [immer](https://immerjs.github.io/immer/) (ⓘ still in evaluation) - easy deep state updates similar to lenses. Useful in combination with react's useState.
 
 ## Testing
 * [vitest](https://vitest.dev/) - Like (ts-)jest, but working.
